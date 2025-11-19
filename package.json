@@ -1,6 +1,6 @@
 {
-  "name": "@frida/os",
-  "description": "Node.js's os module for Frida",
+  "name": "@ainakan/os",
+  "description": "Node.js's os module for Ainakan",
   "version": "1.0.2",
   "publishConfig": {
     "access": "public"
@@ -12,9 +12,9 @@
     "/index.js"
   ],
   "type": "module",
-  "homepage": "https://github.com/frida/gumjs-os",
+  "homepage": "https://github.com/ainakan/gumjs-os",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-os.git"
+    "url": "https://github.com/ainakan/gumjs-os.git"
   }
 }

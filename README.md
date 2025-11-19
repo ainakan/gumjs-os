@@ -1,3 +1,3 @@
-# @frida/os
+# @ainakan/os
 
-Frida-optimized ESM fork of https://github.com/CoderPuppy/os-browserify.
+Ainakan-optimized ESM fork of https://github.com/CoderPuppy/os-browserify.
